@@ -2,5 +2,4 @@
 !*.c
 !*.h
 !*.md
-!*.py
 !.gitignore
