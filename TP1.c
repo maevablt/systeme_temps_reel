@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "Header_TP1.h"
 
-/*int main() {
+int main() {
     printf("Hello World\n");
     return 0 ;
 }
-*/
+
 
 /*int main() {
     int x = 20;
@@ -15,7 +15,7 @@
     //compterfor(100);
     //number_adress(10);
 }*/
-int main() {
+/*int main() {
     int liste[] = {10, 25, 42, 88, 97};
     int taille = sizeof(liste) / sizeof(liste[0]); sizeof(liste); // Donne la taille totale du tableau en octets /Donne la taille d'un seul élément
     int cible = 42;
@@ -29,4 +29,4 @@ int main() {
     }
 
     return 0;
-}
+}*/
