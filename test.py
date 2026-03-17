@@ -5,3 +5,6 @@ print ("sum")
 
 
 print("bonjour")
+
+m=3*58
+print("m") 
